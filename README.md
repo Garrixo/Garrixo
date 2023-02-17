@@ -32,9 +32,9 @@
     
     ![JS](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
     ![Swift](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg)
-    ![Kotlin](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg)
     ![Java](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
     ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg)
+    ![Kotlin](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg)
 
 
 </p>
