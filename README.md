@@ -35,7 +35,6 @@
     ![Kotlin](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg)
     ![Java](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
     ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg)
-    ![Css](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css.svg)
 
 
 </p>
