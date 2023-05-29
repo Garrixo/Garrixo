@@ -29,7 +29,7 @@
     ![Java](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg)
     ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg)
     ![Css](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg)
-![Lua](https://github.com/Garrixo/Garrixo/blob/main/lua.svg)
+    ![Lua](https://github.com/Garrixo/Garrixo/blob/main/lua.svg)
     ![Kotlin](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/kotlin.svg)
 
 
